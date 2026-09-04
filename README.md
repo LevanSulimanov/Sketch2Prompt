@@ -2,7 +2,7 @@
 
 **Sketch your app. Export it as prompt.**
 
-![Alt Text](readme_assets/project_overview.png) ![Alt Text](readme_assets/no_to_vibecoding.png)
+![Alt Text](readme_assets/project_overview_latest.png)
 
 Sketch2Prompt is a visual application-design tool that converts diagrams into structured JSON prompts. Users can map an application's modules, submodules, content, and connections before sending the exported prompt to an AI coding system to generate the application.
 

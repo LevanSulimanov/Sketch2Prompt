@@ -1,6 +1,4 @@
-# Sketch2Prompt
-
-**Sketch your app. Export it as prompt.**
+# Sketch2Prompt - **Sketch your app. Export it as prompt.**
 
 ![Alt Text](readme_assets/project_overview_latest.png)
 

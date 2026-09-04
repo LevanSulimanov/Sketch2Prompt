@@ -46,4 +46,4 @@ Sketch2Prompt is in its initial working stage. The core diagram editor and JSON 
 
 ## License
 
-A license will be added later.
+MIT License.
